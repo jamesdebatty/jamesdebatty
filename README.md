@@ -10,7 +10,7 @@ already runs, through [The DeBatty Group](https://debattygroup.com/).
 The hard part isn't getting an AI to do something. It's trusting it to keep doing
 it when nobody's watching. So my own projects are about exactly that.
 
-## Proviso — does the AI actually listen?
+## [Proviso](https://github.com/jamesdebatty/proviso) — does the AI actually listen?
 
 Tell a model "be brief" or "don't claim you finished if you didn't," and it
 nods along. Proviso checks whether it meant it. Change one line of instructions,
@@ -18,10 +18,9 @@ run the same tasks over and over, grade the results blind, and see what really
 shifted: how much it rambles, whether it follows the style you asked for, and
 whether it says a job is done when it isn't.
 
-Every run keeps its receipts, so a result can be reopened and checked later
-instead of taken on faith.
+Campaign protocols and reports are public; some raw artifacts and configuration variants are withheld. See the repository for what can be reproduced offline.
 
-## Graphshipper — an assembly line for software, staffed by agents
+## [Graph Shipper / harbor-master](https://github.com/jamesdebatty/harbor-master) — agentic build workflows
 
 Graphshipper takes an approved piece of work and carries it through planning,
 building, verification, and independent review without a person steering each
