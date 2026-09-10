@@ -36,4 +36,4 @@ limits live in the runtime, not in a polite request.
 If there's a job in your business that a smart, tireless assistant could take
 over, I'd like to hear what it is. The boring ones are usually the best candidates.
 
-[The DeBatty Group](https://debattygroup.com/) · [LinkedIn](https://www.linkedin.com/in/james-debatty/) · [Medium](https://medium.com/@jamesdebatty)
+[The DeBatty Group](https://debattygroup.com/) · [LinkedIn](https://www.linkedin.com/in/james-debatty/) · [Medium](https://medium.com/@jamesdebatty) · [The DeBatty Group on X (@TheDeBattyGroup)](https://x.com/TheDeBattyGroup)
